@@ -1,0 +1,28 @@
+{
+  "name": "NeonMessengerBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "google-images": "^2.1.0",
+    "google-search": "0.0.5",
+    "google-translate-api": "^2.3.0",
+    "https": "^1.0.0",
+    "https-proxy-agent": "^2.2.1",
+    "moment": "^2.22.2",
+    "node-fetch": "^2.1.2",
+    "overwatch-js": "^1.7.0",
+    "request": "^2.87.0",
+    "steamid": "^1.1.0",
+    "urban-dictionary": "^1.0.7"
+  }
+}

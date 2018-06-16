@@ -1,0 +1,58 @@
+{
+  "google": {
+    "info": "Searches the keyword in Google.",
+    "usage": "google <keyword>"
+  },
+  "image": {
+    "info": "Searches and displays the first image in Google",
+    "usage": "image <keyword>"
+  },
+  "translate": {
+    "info": "Translates a word from one language to another.",
+    "usage": "translate <from<to | to> <word>"
+  },
+  "langlist": {
+    "info": "Lists down all languages available for translate.",
+    "usage": "langlist"
+  },
+  "ud": {
+    "info": "Searches the word in Urban Dictionary.",
+    "usage": "ud <keyword>"
+  },
+  "weather": {
+    "info": "Searches the weather forecast.",
+    "usage": "weather <keyword>"
+  },
+  "randomjoke": {
+    "info": "Searches a random joke.",
+    "usage": "randomjoke | randomjoke <user>"
+  },
+  "lol": {
+    "info": "Searches League of Legends information.",
+    "usage": "lol summoner <user> | lol champion <name>"
+  },
+  "overwatch": {
+    "info": "Searches Overwatch user information.",
+    "usage": "overwatch <user>"
+  },
+  "dota2": {
+    "info": "Searches Dota 2 user information.",
+    "usage": "dota2 <steam id>"
+  },
+  "csgo": {
+    "info": "Searches CS-GO user information.",
+    "usage": "csgo <steam id>"
+  },
+  "lyrics": {
+    "info": "Searches lyrics of a song.",
+    "usage": "lyrics <song>"
+  },
+  "help": {
+    "info": "Shows usage of the command.",
+    "usage": "help <command>"
+  },
+  "cmds": {
+    "info": "Shows all commands.",
+    "usage": "cmds"
+  }
+}
