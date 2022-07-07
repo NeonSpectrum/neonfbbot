@@ -18,7 +18,7 @@
     "google-translate-api": "^2.3.0",
     "https": "^1.0.0",
     "https-proxy-agent": "^2.2.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "node-fetch": "^2.1.2",
     "overwatch-js": "^1.7.0",
     "request": "^2.87.0",
